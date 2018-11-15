@@ -1,0 +1,468 @@
+{
+  "header":{
+      "home": "HOME",
+      "publicity": "BLOCK",
+      "scene": "SOLUTIONS",
+      "aboutUs": "ABOUT",
+      "login": "Login",
+      "loginCenter": "MY",
+      "placeholder1": "BLOCK",
+      "placeholder2": "HASH"
+  },
+  "footer":{
+      "footer1": "CONTACT US",
+      "footer2": "Tel：",
+      "footer3": "Email:",
+      "footer4": "Address：A9, A17, 5 building F, No. 1198, Hulin road, Huangpu District, Guangzhou, China",
+      "footer5": "CONSULTING",
+      "footer6": "Name：",
+      "footer7": "SUBMIT",
+      "footer8": "FOLLOW US",
+      "footer9": "020-82510334",
+      "footer10": "kf@90qkl.cn",
+      "footer11": "Copyright@2018-2020 90chain.ALL",
+      "footer12": "Guangdong ICP reserve No.18084203",
+      "footer13": "Consultation content?"
+  },
+  
+  "Start1":"首页开始",
+  "banner":{
+    "banner1": "Building a credible business ecosystem",
+    "banner2": "Genesis block has born",
+    "banner3": "LAST BLOCK",
+    "banner4": "NODES",
+    "banner5": "USERS",
+    "banner6": "TRANSACTION",
+    "banner7": "Day",
+    "banner8": "Hour",
+    "banner9": "Min",
+    "banner10": "Sec",
+    "banner11": "90Chain Explorer"
+  },
+  "Chain":{
+      "Chain1": "Enterprise level and high performance blockchain cloud platform",
+      "Chain2": "DISTRIBUTED LEDGER",
+      "Chain3": "Databases that share, copy and synchronize among nodes of network nodes through timestamps and digital signatures.",
+      "Chain4": "CONSENSUS MECHANISM",
+      "Chain5": "Support Paxos, PBFT, Dpos and other consensus algorithms applicable to industry blockchain network.",
+      "Chain6": "SMART CONTRACTS",
+      "Chain7": "Support multi lingual, multi scene online calling, editing and debugging smart contracts, and realizes the contract function quickly and safely.",
+      "Chain8": "MULTILEVEL ENCRYPTION",
+      "Chain9": "Provide multiple privacy protection to implement homomorphic encryption algorithm, and supports zero knowledge proof to verify the validity of encrypted data.",
+      "Chain10": "CHAIN CROSS",
+      "Chain11": "Using interconnection chain architecture, consensus mechanism, transmission protocol and privacy protection mechanism, the interconnection between independent blockchain can be realized."
+  },
+  "adhibition":{
+      "adhibition1": "Application of rich and diverse scenes",
+      "adhibition2": "Sharing Economy",
+      "adhibition3": "Provide funds, resources and service sharing services based on the trusted blockchain. Provide authenticity proof for each transaction link after the user joins the shared platform. Ensure the whole process of the platform to be traced, and improve the credibility of the platform.",
+      "adhibition4": "Digital Integral",
+      "adhibition5": "An integral consortium is formed by a number of institutions, and consumers are consumed by any organization to obtain the points issued by the agency and can be used in any organization in the alliance.",
+      "adhibition6": "Produce Traceability",
+      "adhibition7": "Blockchain technology combined with anti-counterfeit labels and Internet of things equipment, can prevent artificial factors caused by false data sources, to ensure that the product information is true and unique, traceability, and tampering.",
+      "adhibition8": "Supply chain finance",
+      "adhibition9": "The distributed ledger and smart contract technology of blockchain are used to connect core enterprises, distributors, banks / financial institutions and warehousing companies to realize the registration and sharing of goods information on the chain.",
+      "adhibition10": "watch detail"
+  },
+  "advantage":{
+      "advantage1": "Our advantages",
+      "advantage2": "Leading performance",
+      "advantage3": "High scalability, high performance, micro service, distributed computing architecture, supporting lateral expansion, providing 10000 level processing power per second, and easily supporting multiple business scenarios.",
+      "advantage4": "Flexible and efficient",
+      "advantage5": "he bottom layer adopts the database structure and supports data heterogeneity, which supports flexible handover of multiple consensus algorithms, and supports piecewise and multi chain technology to effectively improve the parallel processing capability.",
+      "advantage6": "Fast access",
+      "advantage7": "The implementation of the flexible link protocol, through the OpenAPI fast, convenient and efficient docking center system, one key installation, substantially reduce the cost of business development, migration and maintenance.",
+      "advantage8": "Compliance safety",
+      "advantage9": "Perfect user, key, permission management and isolation processing ensure data and account information security, and meet real-time penetration compliance monitoring."
+  },
+  "VIP":{
+    "VIP1":"90Chain Node members"
+  },
+  "interlinkage":{
+    "interlinkage1":"Blockchain hyperlinks"
+  },
+  "End1":"首页结束",
+
+  "Start2":"链上公示的开始",
+  "bulletin":{
+    "bulletin1": "BLOCK HEIGHT",
+    "bulletin2": "USERS",
+    "bulletin3": "CONCURRENT",
+    "bulletin4": "TRANS",
+    "bulletin5": "SHARES",
+    "bulletin6": "Active",
+    "bulletin7": "Warning",
+    "bulletin8": "Off",
+    "bulletin9": "Node members"
+  },
+  "inquire":{
+    "inquire1": "节点信息",
+    "inquire2": "节点名称",
+    "inquire3": "位置",
+    "inquire4": "状态",
+    "inquire5": "区块高度",
+    "inquire6": "当前区块哈希",
+    "inquire7": "区块时间",
+    "inquire8": "加载更多"
+    
+  },
+  "deal":{
+    "deal1": "TRANSACTION",
+    "deal2": "THASH",
+    "deal3": "BS TYPE",
+    "deal4": "FROM",
+    "deal5": "TO",
+    "deal6": "AMOUNT",
+    "deal7": "TIME",
+    "deal8": "SEE MORE>>"
+  },
+  "record":{
+    "record1": "SHARED DATA",
+    "record2": "RHASH",
+    "record3": "BS TYPE",
+    "record4": "DESC",
+    "record5": "HEIGHT",
+    "record6": "TIME",
+    "record7": "SEE MORE>>"
+  },
+  "End2":"链上公示的结束",
+
+  "Start3":"共享经济的开始",
+  "sharing":{
+    "sharing1": "Sharing Economy",
+    "sharing2": "Provid funds,resources and service sharing services based on the trusted blockchain.Provide authenticity proof for rach transaction link after th user joins the shared platform.Ensure the whole process of the plat form to be traced, and improve the credibility of the platform.",
+    "sharing3": "",
+    "sharing4": "",
+    "sharing5": "PAIN",
+    "sharing6": "DATA SECURITY",
+    "sharing7": "Platform can modify the count of users, on the one hand misleads the user to join, and on the other hand, it may cause the sharing of funds into the pocket of the platform.",
+    "sharing8": "FUND SECURITY",
+    "sharing9": "Due to the lack of effective regulatory regime, the platform can misappropriate shared funds for investment or finance, which is a huge risk for users.",
+    "sharing10": "SOLUTION",
+    "sharing11": "THE VALUE",
+    "sharing12": "Fairness and Transparency",
+    "sharing13": "Capital and assets safety",
+    "sharing14": "Promote user participation"
+  },
+  "End3":"共享经济的结束",
+
+  "Start4":"数字积分的开始",
+  "integral":{
+    "integral1": "Digital Integral",
+    "integral2": "An integral consortium is formed by a number of institutions,and consumers are consumed by any organization to obtain the points issued by the agency and can be used in any organization in the alliance.",
+    "integral3": "",
+    "integral4": "",
+    "integral5": "PAIN",
+    "integral6": "CONSUME WAY",
+    "integral7": "Consumers can only use the limited export provided by the issuers. However, each issuer needs to build its own export, which is costly and inefficient, and can only be issued by large organizations.",
+    "integral8": "ACCEPTANCE",
+    "integral9": "Merchants are usually passive access integration platform, lack of unified acceptance and settlement mechanism, integral diversion effect is not obvious.",
+    "integral10": "FINANCIAL RISK",
+    "integral11": "The upper and lower reaches all need one's own family to promote, very difficult to make big; if all undertake the exchange, will face the cash flow and the risk pressure.",
+    "integral12": "SOLUTION",
+    "integral13": "THE VALUE",
+    "integral14": "Integral is safe and reliable",
+    "integral15": "Integral circulation is convenient",
+    "integral16": "User loyalty is improved"
+  },
+  "End4":"数字积分的结束",
+
+  "Start5":"产品溯源的开始",
+  "product":{
+    "product1": "Produce Traceability",
+    "product2": "Blockchain technology combined with anti-counterfeitlabels and internet of things equipment,can prevent artificial factors caused by false data sources,to ensure that the product information is true and unique,traceability,and tampering.",
+    "product3": "",
+    "product4": "",
+    "product5": "PAIN",
+    "product6": "Anti-fake's trust",
+    "product7": "The need to use a credibility tool to identify the authenticity of goods, anti-counterfeit labels can not be physically bound products, and the common label is easily copied, causing 'code wrong', 'one code and many use' and other cases occurred",
+    "product8": "Closed traceability change",
+    "product9": "Traditional verification center model, data stored in their own flat mode. In Taichung, it is easy to be tampered with true and false, and the user is poor in the experience of anti-counterfeiting verification operation. It is long and complex from the initial node of the product to the middle chain of the consumer terminal, and it is difficult to grasp the specific control of each node.",
+    "product10": "SOLUTION",
+    "product11": "THE VALUE",
+    "product12": "Consumer commodity safety",
+    "product13": "Commodity premium of manufacturing enterprises",
+    "product14": "Convenient monitoring of government industry"
+  },
+  "End5":"产品溯源的结束",
+
+  "Start6":"供应链金融的开始",
+  "financial":{
+    "financial1": "Supply Chain Finance",
+    "financial2": "The distributed ledger and smart contract technology of blockchain are used to connect core enterprises,distributors,banks / financial institutions and warehousing companies to realize the registrantion and sharing of goods information on the chain.",
+    "financial3": "",
+    "financial4": "",
+    "financial5": "Information asymmetry",
+    "financial6": "Non unified ERP systems between institutions / enterprises, information forming isolated islands cannot be shared.",
+    "financial7": "Trust cannot be transmitted effectively",
+    "financial8": "Trust can only be transmitted between core enterprises and first level suppliers, other links lack low cost trust transfer tools or means.",
+    "financial9": "Payment and liquidation nonautomatic",
+    "financial10": "The payment settlement between suppliers and suppliers can not be automated.",
+    "financial11": "Financing is difficult to finance",
+    "financial12": "Small and medium-sized enterprises lack trust endorsement on the chain, so it is hard to get the approval of the capital side",
+    "financial13": "SOLUTION",
+    "financial14": "THE VALUE",
+    "financial15": "Transaction transparency and authenticity",
+    "financial16": "Controllable financing risk",
+    "financial17": "Second order application for loan"
+  },
+  "End6":"供应链金融的结束",
+
+  "Start7":"关于我们的开始",
+  "about":{
+    "about1": "About Us",
+    "about2": "90chain is the leading block chain technology company in China. The company focuses on the innovation of block chain technology and product. It has developed high performance and high performance and high availability block chain basic service platform. It has the ability to quickly build upper application business and meet the scene of large-scale users.90chain has been widely used in the fields of digital assets, trade finance, equity bond, supply chain finance, commercial integration, joint credit, public notarization, electronic invoice, data security and so on.In the future, we will work together with a large number of like-minded partners to jointly study the underlying technology of the block chain and promote the application of block chain technology in various commercial fields. We will jointly establish a distributed and trustworthy and distributed business environment with transparent information, synergy and high efficiency.",
+    "about3": "Co-create new era of blockchain business",
+    "about4": "1.Based on the research of (Hyperledger Fabric) and BCOS project, using the open source and Commercial property of research projects to innovation in design and application the underlying structure of blockchain.",
+    "about5": "2.Enterprise-level application implementation based on the BaaS open platform of Trustsql. The application practice has been carried out at the level of member digital assets of the Jiuling e-commerce business scene, and the 《Jiuling Blockchain Integrated Application System 1.0》 has been formed.",
+    "about6": "3.Providing blockchain solutions for small and medium-sized enterprises, conducting enterprise chain scenario analysis, alliance chain erection, chain code (Intelligent contract) and blockchain browser development, etc.",
+    "about7": "TEAM：",
+    "about8": "We have a high level R & D team and a professional operation team.",
+    "about9": "POSITIONING：",
+    "about10": "For small and medium enterprises in China to solve difficulties and pain points.",
+    "about11": "ACHIEVEMENTS：",
+    "about12": "Address：A9, A17, 5 building F, No. 1198, Hulin road, Huangpu District, Guangzhou, China (Has settled in Guangzhou Block Chain Industrial Park)"
+  },
+  "End7":"关于我们的结束",
+
+  "Start8":"个人中心的开始",
+  "personal":{
+    "personal1": "MY ASSETS",
+    "personal2": "LG voucher",
+    "personal3": "JL voucher",
+    "personal4": "GW voucher",
+    "personal5": "Trans amount",
+    "personal6": "Trans Count",
+    "personal7": "Balance",
+    "personal8": "Latest：",
+    "personal9": "MY SHARED DATA",
+    "personal10": "ASSETS",
+    "personal11": "LG voucher",
+    "personal12": "JL voucher",
+    "personal13": "GW voucher",
+    "personal14": "My shared data",
+    "personal15": "DATA SHARING",
+    "personal16": "Application",
+    "personal17": "Application received",
+    "personal18": "Others",
+    "personal19": "User information",
+    "personal20": "Logout",
+    "personal21": "Log Out",
+    "personal22": "Are you sure to log out?",
+    "personal23": "cancel"
+  },
+  "End8":"个人中心的结束",
+
+  "Start9":"零购券账户的开始",
+  "tradingRecord":{
+    "tradingRecord1": "ACCOUNT",
+    "tradingRecord2": "BALANCE",
+    "tradingRecord3": "ALL",
+    "tradingRecord4": "OUT",
+    "tradingRecord5": "IN",
+    "tradingRecord6": "Amount",
+    "tradingRecord7": "Details"
+  },
+  "End9":"共享经济的结束",
+
+  "Start10":"我的共享记录的开始",
+  "myShare":{
+    "myShare1": "MY SHARED DATA"
+  },
+  "End10":"我的共享记录的结束",
+
+  "Start11":"我的申请的开始",
+  "myApplyFor":{
+    "myApplyFor1": "Total apply",
+    "myApplyFor2": "Pass count",
+    "myApplyFor3": "Assets",
+    "myApplyFor4": "Share book",
+    "myApplyFor5": "Applying",
+    "myApplyFor6": "Passed",
+    "myApplyFor7": "Refused",
+    "myApplyFor8": "Cancelled",
+    "myApplyFor9": "Send back",
+    "myApplyFor10": ""
+  },
+  "End11":"我的申请的结束",
+
+  "Start12":"收到的申请的开始",
+  "receiveApply":{
+    "receiveApply1": "Receive count",
+    "receiveApply2": "PASSED",
+    "receiveApply3": "Assets",
+    "receiveApply4": "Share book",
+    "receiveApply5": "ALL PASS",
+    "receiveApply6": "ALL REFUSE",
+    "receiveApply7": "Applicant",
+    "receiveApply8": "Passed",
+    "receiveApply9": "Refused",
+    "receiveApply10": "Cancelled",
+    "receiveApply11": "By",
+    "receiveApply12": "By Time",
+    "receiveApply13": "",
+    "receiveApply14": "Pass",
+    "receiveApply15": "Refuse"
+  },
+  "End12":"收到的申请的结束",
+
+  "Start13":"基本信息的开始",
+  "basicInformation":{
+    "basicInformation1": "USER INFORMATION",
+    "basicInformation2": "Type:",
+    "basicInformation3": "Name:",
+    "basicInformation4": "STATUS:",
+    "basicInformation5": "OK",
+    "basicInformation6": "Created:",
+    "basicInformation7": "Public Key:",
+    "basicInformation8": "Account:",
+    "basicInformation9": "KEY VERIFICATION",
+    "basicInformation10": "Public Key：",
+    "basicInformation11": "Entry public key",
+    "basicInformation12": "Private Key：",
+    "basicInformation13": "Entry private key",
+    "basicInformation14": "This tool can verify the public and private key. The private key is kept by the yourself. Please keep your private key information properly and do not share it with others.",
+    "basicInformation15": "VERIFY",
+    "basicInformation16": "CANCEL"
+  },
+  "End13":"基本信息的结束",
+
+  "Start14":"左边菜单导航的开始",
+  "leftNav":{
+    "leftNav1": "USER CENTER",
+    "leftNav2": "ASSETS",
+    "leftNav3": "LG voucher",
+    "leftNav4": "JL voucher",
+    "leftNav5": "GW voucher",
+    "leftNav6": "S-BOOKS",
+    "leftNav7": "My shared data",
+    "leftNav8": "DATA SHARING",
+    "leftNav9": "Application",
+    "leftNav10": "Application received",
+    "leftNav11": "Others",
+    "leftNav12": "User information",
+    "leftNav13": "Logout"
+  },
+  "End14":"左边菜单导航的结束",
+
+  "Start15":"分页的开始",
+  "pageUtil":{
+    "pageUtil1": "Previous",
+    "pageUtil2": "First",
+    "pageUtil3": "Last",
+    "pageUtil4": "Next"
+  },
+  "End15":"分页的结束",
+
+  "Start16":"账户信息的开始",
+  "accountDetail":{
+    "accountDetail1": "Account:",
+    "accountDetail2": "Account Public Key:",
+    "accountDetail3": "User Public Key:",
+    "accountDetail4": "User Account:",
+    "accountDetail5": "Type:",
+    "accountDetail6": "Created:",
+    "accountDetail7": "Id",
+    "accountDetail8": "Count",
+    "accountDetail9": "Balance",
+    "accountDetail10": "Transaction List",
+    "accountDetail11": "Count",
+    "accountDetail12": "Details",
+    "accountDetail13": "ACCOUNT DETAIlLS"
+  },
+  "End16":"账户信息的结束",
+
+  "Start17":"区块详情的开始",
+  "BlockDetail":{
+    "BlockDetail1": "BLOCK",
+    "BlockDetail2": "Height:",
+    "BlockDetail3": "Time:",
+    "BlockDetail4": "Previous:",
+    "BlockDetail5": "Count:",
+    "BlockDetail6": "BsHash:",
+    "BlockDetail7": "TRANSACTIONS",
+    "BlockDetail8": "Hash:",
+    "BlockDetail9": "Type:",
+    "BlockDetail10": "Desc:",
+    "BlockDetail11": "Created:",
+    "BlockDetail12": "BlockHash"
+  },
+  "End17":"区块详情的结束",
+
+  "Start18":"记录详情的开始",
+  "recordDetail":{
+    "recordDetail1": "SHAREBOOK DETAIL",
+    "recordDetail2": "Hash:",
+    "recordDetail3": "Type:",
+    "recordDetail4": "Account:",
+    "recordDetail5": "From:",
+    "recordDetail6": "To:",
+    "recordDetail7": "Submit:",
+    "recordDetail8": "BsHash:",
+    "recordDetail9": "The hash value is encrypted after the real business data. If you want to view the plaintext business description data, you can apply to the data owner.",
+    "recordDetail10": "Now apply",
+    "recordDetail11": "BS DATA",
+    "recordDetail12": "BLOCK INFO",
+    "recordDetail13": "BlockHash:",
+    "recordDetail14": "BlockHeight:",
+    "recordDetail15": "Created:"
+  },
+  "End18":"记录详情的结束",
+
+  "Start19":"全部共享账本记录的结束",
+  "sbookSeeMore":{
+    "sbookSeeMore1": "ALL SHAREBOOK DATA",
+    "sbookSeeMore2": "TYPE："
+  },
+  "End19":"全部共享账本记录的结束",
+
+  "Start20":"搜索的开始",
+  "searchResult":{
+    "searchResult1": "Account",
+    "searchResult2": "Hash",
+    "searchResult3": "SEARCH",
+    "searchResult4": "ASSETS TRANS",
+    "searchResult5": "TYPE：",
+    "searchResult6": "sum：",
+    "searchResult7": "SHAREBOOK DATA",
+    "searchResult8": "search result"
+  },
+  "End20":"搜索的结束",
+
+  "Start21":"全部数字资产交易的结束",
+  "seeMore":{
+    "seeMore1": "ALL TRANSACTIONS",
+    "seeMore2": "TYPE：",
+    "seeMore3": "sum："
+  },
+  "End21":"全部数字资产交易的结束",
+
+  "Start22":"交易详情的结束",
+  "transDetail":{
+    "transDetail1": "TRANS DETAIL",
+    "transDetail2": "Hash：",
+    "transDetail3": "sum:",
+    "transDetail4": "OUT:",
+    "transDetail5": "ISSUE",
+    "transDetail6": "IN:",
+    "transDetail7": "CASH",
+    "transDetail8": "Type:",
+    "transDetail9": "No.:",
+    "transDetail10": "Trading Hour:",
+    "transDetail11": "The hash value is encrypted after the real business data. If you want to view the plaintext business description data, you can apply to the data owner.",
+    "transDetail12": "Now apply",
+    "transDetail13": "BS DATA"
+  },
+  "End22":"交易详情的结束",
+
+  "Start23":"登录的结束",
+  "login":{
+    "login1": "LOGIN",
+    "login2": "PublicKey:",
+    "login3": "Your public key",
+    "login4": "PrivateKey:",
+    "login5": "Your private key",
+    "login6": "Remeber me"
+  },
+  "End23":"登录的结束"
+}
